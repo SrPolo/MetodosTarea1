@@ -45,20 +45,4 @@ while k<itera:
     print("Iteraciones: ",k)
     if all( i<=tol for i in error) ==True:
         break
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        
